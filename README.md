@@ -97,27 +97,40 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino"/>
 </p>
 
-## 🚀 Featured Projects
-
 ### 🦯 AI-Based Smart Cane with Intelligent Obstacle Detection and Emergency Assistance
 **Final Year Project — In Progress**
 
-- Developing an AI-based smart cane for real-time obstacle detection and intelligent user alerts.
-- Designing emergency assistance features to improve user safety and independent navigation.
-- Integrating intelligent assistance features for real-time environmental awareness and emergency response.
+An AI-based smart cane designed to assist visually impaired users through real-time
+obstacle detection, environmental monitoring, emergency assistance, and web-based
+status monitoring.
 
-**Technologies:** AI/ML • IoT • Embedded Systems • Sensors
+#### 🔹 Key Features
+- Real-time obstacle detection using front and downward-facing ultrasonic sensors.
+- Water detection for identifying wet or unsafe surfaces.
+- GPS-based location tracking for emergency assistance.
+- Vibration and buzzer alerts for detected obstacles and emergencies.
+- Fire detection for improved environmental safety.
+- OLED display for displaying real-time sensor information.
+- GSM-based emergency communication.
+- SD card storage for recording relevant sensor data.
+- Web server interface for monitoring sensor and system status remotely.
 
----
+#### 🔹 Hardware Components
+- ESP32
+- Ultrasonic Sensors (Front & Down)
+- Water Detection Sensor
+- GPS Module
+- Vibration Sensor
+- Fire Sensor
+- OLED Display
+- GSM Module
+- SD Card Module & SD Card
+- Buzzer
+- Lithium-Ion Battery
+- Switch & Push Button
 
-### 📄 AI-Powered Resume Builder & Analyzer
-
-- Developing an AI-powered web application to create professional and ATS-friendly resumes.
-- Implementing ATS scoring, keyword analysis, missing skill identification, and job-role-based suggestions.
-- Helping users optimize resumes based on specific job requirements.
-
-**Technologies:** AI • Web Development • NLP • JavaScript
-
+#### 🔹 Technologies
+`ESP32` `IoT` `Embedded Systems` `Web Server` `Sensors` `GPS` `GSM`
 
 ## 🌱 More Projects Coming Soon...
 
