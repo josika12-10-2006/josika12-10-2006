@@ -1,111 +1,131 @@
 <div align="center">
 
-# 👋 Hi, I'm Josika T
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=220&section=header&text=Josika%20T&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-### 💻 Aspiring Software Engineer | Full-Stack Developer | B.Tech IT Student
+### 💻 Aspiring Software Engineer
+### 🌐 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎓 B.Tech IT Student
 
 <p>
   <a href="https://github.com/josika12-10-2006">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/josika76">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:josikabuvi66@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=josika12-10-2006&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=josika12-10-2006&label=Profile%20Views&color=7F00FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<div align="center">
 
-I'm a **final-year B.Tech Information Technology student** passionate about software development, web technologies, Artificial Intelligence, and building practical solutions.
+## ✨ Welcome to My GitHub Profile ✨
 
-- 🎓 Final-year B.Tech Information Technology student
-- 💻 Aspiring Software Engineer
-- 🌐 Interested in Full-Stack Development
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🔐 Exploring UPI Fraud Detection using Behavioral Analytics
-- 🚀 Passionate about building real-world projects
-- 📚 Continuously learning new technologies
-- 🎯 Looking for entry-level Software Development / IT opportunities
+</div>
+
+> 👋 Hi! I'm **Josika T**, a final-year **B.Tech Information Technology student** passionate about software development, web technologies, Artificial Intelligence and building practical real-world solutions.
 
 ---
 
-## 🛠️ Tech Stack
+# 🧑‍💻 About Me
 
-### 💻 Programming Languages
+🎓 **Final-year B.Tech Information Technology Student**
+
+💻 Aspiring **Software Engineer**
+
+🌐 Interested in **Full-Stack Development**
+
+🤖 Exploring **Artificial Intelligence & Machine Learning**
+
+🔐 Working on **UPI Fraud Detection using Behavioral Analytics**
+
+🚀 Passionate about creating practical and innovative projects
+
+📚 Always learning and improving my technical skills
+
+🎯 Open to **Software Development / IT opportunities**
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,php,js" />
+<img src="https://skillicons.dev/icons?i=java,python,php,js"/>
 </p>
 
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
-
-- RESTful APIs
-- Full-Stack Development
 
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ### ☁️ Cloud & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=aws"/>
 </p>
 
-- Cloud Computing
-- Artificial Intelligence
-- Machine Learning
-- Generative AI Concepts
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-FF00CC?style=for-the-badge"/>
+</p>
 
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%">
+
 ## 🔐 AI-Powered UPI Fraud Detection
 
-**AI-powered FinTech solution for UPI fraud detection using Behavioral Analytics and Machine Learning.**
+AI-powered FinTech solution for detecting suspicious UPI transactions using **Behavioral Analytics and Machine Learning**.
 
 ### 🔑 Key Concepts
 
-- Behavioral Analytics
-- Machine Learning
-- Transaction Analysis
-- Fraud Detection
-- Risk Analysis
-- UPI Payment Simulation
+- 🧠 Machine Learning
+- 📊 Behavioral Analytics
+- 💳 Transaction Analysis
+- 🔐 Fraud Detection
+- ⚠️ Risk Analysis
+- 📱 UPI Simulation
 
-**Technologies:**  
-`Python` `Machine Learning` `Artificial Intelligence` `Data Analysis`
+**Tech Stack**
 
-> 🚧 Project in development
+`Python` `AI` `ML` `Data Analysis`
 
----
+</td>
+
+<td width="50%">
 
 ## 🏦 AI-Based Smart Banking System
 
@@ -113,31 +133,54 @@ An intelligent banking application designed to provide smart and user-friendly b
 
 ### 🔑 Highlights
 
-- 🏦 Smart banking operations
-- 🔐 Secure user interaction
-- 🤖 AI-based concepts
-- 📊 Data-driven decision support
-- 💻 User-friendly interface
+- 🏦 Smart Banking
+- 🔐 Secure Interaction
+- 🤖 AI Concepts
+- 📊 Data-driven Decisions
+- 💻 User-friendly Interface
 
-**Technologies:**  
+**Tech Stack**
+
 `Java` `Python` `JavaScript` `MySQL`
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ## 📊 GitHub Profile Analyzer
 
-A web application that analyzes a GitHub user's public profile using the GitHub API.
+A web application that analyzes GitHub public profile information using the **GitHub REST API**.
 
-### 🔑 Features
+### ✨ Features
 
-- 👤 GitHub profile information
-- 📦 Repository information
-- ⭐ Repository statistics
-- 🔗 Direct GitHub profile access
-- 🌐 GitHub REST API integration
+- 👤 Profile Analysis
+- 📦 Repository Details
+- ⭐ Repository Statistics
+- 🔗 GitHub Profile Link
+- 🌐 REST API Integration
 
-**Technologies:**  
+**Tech Stack**
+
 `HTML` `CSS` `JavaScript` `GitHub API`
+
+</td>
+
+<td width="50%">
+
+## 🌱 More Projects Coming Soon...
+
+I'm continuously learning and building new projects to improve my development skills.
+
+🚀 **Learn → Build → Improve → Repeat**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -147,69 +190,80 @@ A web application that analyzes a GitHub user's public profile using the GitHub 
 
 Gained practical exposure to Artificial Intelligence concepts and explored the application of AI techniques to real-world problems.
 
-### Key Learning Areas
+### 📌 Learning Areas
 
-- Artificial Intelligence fundamentals
-- Machine Learning concepts
-- Problem-solving approaches
-- Practical AI applications
-- Analytical thinking
+🔹 Artificial Intelligence Fundamentals  
+🔹 Machine Learning Concepts  
+🔹 Problem Solving  
+🔹 Practical AI Applications  
+🔹 Analytical Thinking  
 
 ---
 
 # 🎓 Education
 
-## 🏫 B.Tech – Information Technology
+### 🏫 B.Tech – Information Technology
 
 **Sri Bharathi Engineering College for Women, Pudukkottai**
 
-🎓 Final Year
+🎓 **Final Year**
 
 ### 📊 Academic Performance
 
-| Semester | Percentage |
-|----------|------------|
-| 1st Semester | 77.7% |
-| 2nd Semester | 75.4% |
-| 3rd Semester | 85.50% |
-| 4th Semester | 83.8% |
-| 5th Semester | 89.6% |
-| 6th Semester | 88.2% |
+| 📚 Semester | 📈 Percentage |
+|:---:|:---:|
+| 1️⃣ 1st Semester | **77.7%** |
+| 2️⃣ 2nd Semester | **75.4%** |
+| 3️⃣ 3rd Semester | **85.50%** 🏆 |
+| 4️⃣ 4th Semester | **83.8%** 🏆 |
+| 5️⃣ 5th Semester | **89.6%** 🏆 |
+| 6️⃣ 6th Semester | **88.2%** 🏆 |
 
 ---
 
 # 🏆 Achievements
 
-🏅 **1st Rank** – 3rd Semester
+<div align="center">
 
-🏅 **3rd Rank** – 4th Semester
+🏅 **1st Rank – 3rd Semester**
 
-🏅 **3rd Rank** – 5th Semester
+🏅 **3rd Rank – 4th Semester**
 
-🏅 **3rd Rank** – 6th Semester
+🏅 **3rd Rank – 5th Semester**
+
+🏅 **3rd Rank – 6th Semester**
 
 🏆 **1st Place – District Level Tamil Essay Writing Competition, 2023**
+
+</div>
 
 ---
 
 # 📜 Certifications & Learning
 
-- 🤖 Artificial Intelligence
-- ☁️ Cloud Computing / AWS
-- 💻 Software Development
-- 🌐 Web Development
-- 🧠 Generative AI Concepts
-- 📊 Virtual Job Simulations
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7F00FF?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloud%20Computing-00C6FF?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Web%20Development-FF00CC?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-FF6B00?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Virtual%20Job%20Simulations-00B894?style=for-the-badge&logoColor=white"/>
+
+</p>
 
 ---
 
-# 📈 GitHub Statistics
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=josika12-10-2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=josika12-10-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josika12-10-2006&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josika12-10-2006&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
@@ -219,7 +273,7 @@ Gained practical exposure to Artificial Intelligence concepts and explored the a
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=josika12-10-2006&theme=tokyonight&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=josika12-10-2006&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -229,7 +283,7 @@ Gained practical exposure to Artificial Intelligence concepts and explored the a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=josika12-10-2006&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=josika12-10-2006&bg_color=0D1117&color=00C6FF&line=7F00FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -237,24 +291,73 @@ Gained practical exposure to Artificial Intelligence concepts and explored the a
 
 # 🌱 Currently Learning
 
-```text
-Java
- ├── OOP
- ├── Problem Solving
- └── Application Development
+<div align="center">
 
-JavaScript
- ├── ES6+
- ├── DOM
- ├── APIs
- └── React.js
+`☕ Java`  
+`⚡ JavaScript`  
+`⚛️ React.js`  
+`🟢 Node.js`  
+`🔗 REST APIs`  
+`🤖 Machine Learning`  
+`🔐 Fraud Detection`
 
-Backend
- ├── Node.js
- ├── Express.js
- └── REST APIs
+</div>
 
-AI / ML
- ├── Machine Learning
- ├── Behavioral Analytics
- └── Fraud Detection
+---
+
+# 🎯 Career Objective
+
+<div align="center">
+
+> **To begin my career in software development and contribute to building reliable, scalable and user-focused applications while continuously improving my technical and problem-solving skills.**
+
+</div>
+
+---
+
+# 💡 Areas of Interest
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Software%20Development-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Development-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java%20Development-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Development-00B894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-FF00CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FinTech-6C5CE7?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/josika76">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:josikabuvi66@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/josika12-10-2006">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=120&section=footer"/>
+
+### 💙 Code • Learn • Build • Grow 🚀
+
+**Thanks for visiting my profile!**
+
+⭐ **Feel free to explore my repositories.**
+
+</div>
