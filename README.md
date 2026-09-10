@@ -97,79 +97,27 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino"/>
 </p>
 
+## 🚀 Featured Projects
+
+### 🦯 AI-Based Smart Cane with Intelligent Obstacle Detection and Emergency Assistance
+**Final Year Project — In Progress**
+
+- Developing an AI-based smart cane for real-time obstacle detection and intelligent user alerts.
+- Designing emergency assistance features to improve user safety and independent navigation.
+- Integrating intelligent assistance features for real-time environmental awareness and emergency response.
+
+**Technologies:** AI/ML • IoT • Embedded Systems • Sensors
+
 ---
 
-# 🚀 Featured Projects
+### 📄 AI-Powered Resume Builder & Analyzer
 
-<table>
-<tr>
+- Developing an AI-powered web application to create professional and ATS-friendly resumes.
+- Implementing ATS scoring, keyword analysis, missing skill identification, and job-role-based suggestions.
+- Helping users optimize resumes based on specific job requirements.
 
-<td width="50%">
+**Technologies:** AI • Web Development • NLP • JavaScript
 
-## 🔐 AI-Powered UPI Fraud Detection
-
-AI-powered FinTech solution for detecting suspicious UPI transactions using **Behavioral Analytics and Machine Learning**.
-
-### 🔑 Key Concepts
-
-- 🧠 Machine Learning
-- 📊 Behavioral Analytics
-- 💳 Transaction Analysis
-- 🔐 Fraud Detection
-- ⚠️ Risk Analysis
-- 📱 UPI Simulation
-
-**Tech Stack**
-
-`Python` `AI` `ML` `Data Analysis`
-
-</td>
-
-<td width="50%">
-
-## 🏦 AI-Based Smart Banking System
-
-An intelligent banking application designed to provide smart and user-friendly banking features.
-
-### 🔑 Highlights
-
-- 🏦 Smart Banking
-- 🔐 Secure Interaction
-- 🤖 AI Concepts
-- 📊 Data-driven Decisions
-- 💻 User-friendly Interface
-
-**Tech Stack**
-
-`Java` `Python` `JavaScript` `MySQL`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 📊 GitHub Profile Analyzer
-
-A web application that analyzes GitHub public profile information using the **GitHub REST API**.
-
-### ✨ Features
-
-- 👤 Profile Analysis
-- 📦 Repository Details
-- ⭐ Repository Statistics
-- 🔗 GitHub Profile Link
-- 🌐 REST API Integration
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `GitHub API`
-
-</td>
-
-<td width="50%">
 
 ## 🌱 More Projects Coming Soon...
 
