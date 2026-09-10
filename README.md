@@ -132,6 +132,14 @@ status monitoring.
 #### 🔹 Technologies
 `ESP32` `IoT` `Embedded Systems` `Web Server` `Sensors` `GPS` `GSM`
 
+
+### 📄 AI-Powered Resume Builder & Analyzer
+
+- Developing an AI-powered web application to create professional and ATS-friendly resumes.
+- Implementing ATS scoring, keyword analysis, missing skill identification, and job-role-based suggestions.
+- Helping users optimize resumes based on specific job requirements.
+
+**Technologies:** AI • Web Development • NLP • JavaScript
 ## 🌱 More Projects Coming Soon...
 
 I'm continuously learning and building new projects to improve my development skills.
