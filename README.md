@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# ✦ J O S I K A  T ✦
+# J O S I K A.T 
 
 ### `Aspiring Software Engineer` • `Full Stack Developer` • `AI Enthusiast`
 
